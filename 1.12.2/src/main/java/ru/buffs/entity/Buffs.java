@@ -28,7 +28,7 @@ public class Buffs implements IBuffs {
 	@Override
 	public boolean isBuffActive(int buffId) {
 
-    	return this.activeBuffs.containsKey(buffId);
+    		return this.activeBuffs.containsKey(buffId);
 	}
 
 	@Override
