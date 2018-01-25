@@ -1,0 +1,8 @@
+item.health_regeneration_potion.first.name=Зелье малой регенерации
+item.health_regeneration_potion.second.name=Зелье регенерации
+item.health_regeneration_potion.third.name=Сильное зелье регенерации
+
+buff.potion_cooldown=Кулдаун
+buff.health_regeneration=Регенерация здоровья
+buff.sprain=Вывих
+buff.intoxication=Отравление

@@ -1,0 +1,14 @@
+[
+{
+  "modid": "buffs",
+  "name": "Buffs",
+  "description": "Custom temporary effect system demonstration.",
+  "version": "1.0",
+  "updateUrl": "",
+  "authorList": ["Raptor"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

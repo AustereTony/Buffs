@@ -1,0 +1,8 @@
+item.health_regeneration_potion.first.name=Potion of minor regeneration
+item.health_regeneration_potion.second.name=Potion of regeneration
+item.health_regeneration_potion.third.name=Strong potion of regeneration
+
+buff.potion_cooldown=Potion cooldown
+buff.health_regeneration=Health regeneration
+buff.sprain=Sprain
+buff.intoxication=Intoxication

@@ -1,0 +1,10 @@
+[
+{
+  "modid": "buffs",
+  "name": "Buffs",
+  "description": "Custom temporary effects system demonstration",
+  "version": "1.0",
+  "screenshots": [],
+  "dependencies": []
+}
+]

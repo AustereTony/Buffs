@@ -1,0 +1,11 @@
+item.potion.healthRegeneration.name=Health regeneration potion
+item.potion.healthBoost.name=Health boost potion
+item.potion.advancedClimbing.name=Advanced climbing potion
+
+buff.potionCooldown=Potion cooldown
+buff.healthRegeneration=Health regeneration
+buff.healthBoost=Health boost
+buff.advancedClimbing=Advanced climbing
+
+tooltip.potion=Potion of
+tooltip.level=level

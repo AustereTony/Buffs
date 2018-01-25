@@ -1,0 +1,11 @@
+item.potion.healthRegeneration.name=Зелье регенерации
+item.potion.healthBoost.name=Зелье повышения запаса здоровья
+item.potion.advancedClimbing.name=Зелье подъёма
+
+buff.potionCooldown=Кулдаун
+buff.healthRegeneration=Регенерация здоровья
+buff.healthBoost=Повышение запаса здоровья
+buff.advancedClimbing=Карабканье
+
+tooltip.potion=Зелье
+tooltip.level=уровня
